@@ -7,9 +7,9 @@ function App() {
       <p>Enter Name: </p>
       <input type="text" placeholder="Enter your name"></input>
       <p>Enter Email: </p>
-      <input type="text" placeholder="Enter your email"></input>
+      <input type="email" placeholder="Enter your email"></input>
       <p>Enter Passsword: </p>
-      <input type="text" placeholder="Enter Password"></input><br></br>
+      <input type="password" placeholder="Enter Password"></input><br></br>
       <button type="submit">Submit</button>
     </div>
   );
